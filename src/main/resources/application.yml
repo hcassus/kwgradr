@@ -1,0 +1,5 @@
+amazon:
+  api:
+    alias: aps
+    marketId: ATVPDKIKX0DER
+    url: https://completion.amazon.com/api/2017
